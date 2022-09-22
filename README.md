@@ -5,7 +5,7 @@
 - 📫 Contate-me pelo emai: carlosgabriel22@outlook.com
 - 😄 Pronomes: Ele/dele
 <div align="center" style="display: inline_block">
-  <a href="https://github.com/rafaballerini">
+  <a href="https://github.com/CgGoncalves">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CgGoncalves&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgGoncalves&show_icons=true&layout=compact&langs_count=7&theme=panda"/>
 </div>
