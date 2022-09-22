@@ -4,7 +4,7 @@
 - 🌱 Estudando HTML, CSS, JavaScript
 - 📫 Contate-me pelo emai: carlosgabriel22@outlook.com
 - 😄 Pronomes: Ele/dele
-<div>
+<div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="160em" src="https://github-readme-stats.vercel.app/api?username=CgGoncalves&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
   <img align="right" height="140em" width="420em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgGoncalves&show_icons=true&layout=compact&langs_count=7&theme=panda"/>
