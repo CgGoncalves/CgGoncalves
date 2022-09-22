@@ -7,13 +7,12 @@
 <div align="center">
   <a href="https://github.com/rafaballerini">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CgGoncalves&show_icons=true&theme=panda&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgGoncalves&layout=compact&langs_count=7&theme=panda"/>
+  <img height="130em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CgGoncalves&layout=compact&langs_count=7&theme=panda"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Carlos-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Carlos-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="right" alt="Tresh-pic" height="150" src="https://user-images.githubusercontent.com/113954588/191781245-8c63ca1d-53e5-4fc9-9f98-123bae60ba98.gif">   
+  <img align="center" alt="Carlos-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"> 
 </div>
   
   
@@ -28,4 +27,5 @@
   ![Snake animation](https://github.com/CgGoncalves/CgGoncalves/blob/output/github-contribution-grid-snake.svg)
  
 </div>
+  
   
