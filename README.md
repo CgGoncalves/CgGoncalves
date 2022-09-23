@@ -1,6 +1,6 @@
 ### Eai, eu sou o Carlos Gonçalves
 
-- 🔭 Eu trabalho com font-end
+- 🔭 Eu trabalho com front-end
 - 🌱 Estudando HTML, CSS, JavaScript
 - 📫 Contate-me pelo emai: carlosgabriel22@outlook.com
 - 😄 Pronomes: Ele/dele
